@@ -1,0 +1,78 @@
+*{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {
+    font-style: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+
+h3 {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+}
+
+div.links {
+    text-align: center;
+    background-color: aliceblue;
+    color: royalblue;
+}
+
+footer {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+img.img1 {
+    height: 200px;
+    width: 200px;
+
+}
+
+img.img2 {
+    height: 200px;
+    width: 200px;
+
+}
+
+img.img3 {
+    height: 200px;
+    width: 200px;
+
+}
+
+div.edicions {
+    background-color: lightsalmon;
+    color: blue;
+    text-align: left;
+}
+
+div.nominats {
+    background-color: lightseagreen;
+    color: red;
+    text-align: center;
+}
+
+div.contacte {
+    background-color: lightsalmon;
+    color: blue;
+    text-align: right;
+
+}
+
+body.contactame {
+    background-color: lightsalmon;
+}
+
+p.left {
+    text-align: left;
+}
+
+p.right {
+    text-align: right;
+}
